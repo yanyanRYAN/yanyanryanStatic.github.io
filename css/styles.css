@@ -37,11 +37,13 @@ background: rgba(0,0,0,0.6)
 /* resume-section */
 
 #Resume-Section {
-    padding: 3% 7%;
+    padding: 2% 7% 3%;
+    
 }
 
 #Resume-Section h2 {
     margin-left: 7%;
+    margin-bottom: 3%;
 }
 
 div.resume {
